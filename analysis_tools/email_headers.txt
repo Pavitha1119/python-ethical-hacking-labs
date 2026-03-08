@@ -1,0 +1,15 @@
+Delivered-To: victim@gmail.com
+Received: from mail.suspicious-domain.ru (mail.suspicious-domain.ru [185.220.101.45])
+by mx.google.com with ESMTP id a12si123456;
+Mon, 10 Jan 2025 08:01:33 -0800
+X-Originating-IP: 185.220.101.45
+Authentication-Results: mx.google.com;
+spf=fail (google.com: domain of no-reply@legit-bank.com does not designate
+185.220.101.45 as permitted sender)
+dkim=fail header.i=@legit-bank.com
+From: "Legit Bank Security" <no-reply@legit-bank.com>
+Reply-To: collect-credentials@suspicious-domain.ru
+To: victim@gmail.com
+Subject: URGENT: Your account has been suspended
+Date: Mon, 10 Jan 2025 16:01:30 +0000
+Message-ID: <abc123@mail.suspicious-domain.ru>
